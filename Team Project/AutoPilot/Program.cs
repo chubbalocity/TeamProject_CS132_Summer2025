@@ -76,22 +76,23 @@ namespace AutoPilot
 
         {
 
-            display = new char[height, width]; //define new character at coordinates within "height" plane of defined display area
+            display = new char[height, width];                  // define new character at coordinates within "height" plane of defined display area
+            
 
             for (int x = 0; x < height; x++) //loop through available rows while "x" is >= 0 but less than "height".
 
             {
 
-                int location = random.Next(0, 10); //define variable "location" as the next random selection between 0 - 9
+                int location = random.Next(10, 20); //define variable "location" as the next random selection between 0 - 9
 
                 for (int y = 0; y < width; y++) // loop through available columns while "y" is >= 0 but less than "width".
 
                 {
+                    display[x, y] = ' '; // fill background with blank spaces
 
                     if (y == location) // if the current column "y" is equal to the random number "location"...{
 
-                        display[x, y] = '|'; //place '|' (pipe) at selected column
-
+                        display[x, y-5] = '|';            // place '|' (pipe) at selected column
                 }
 
             }
@@ -123,7 +124,7 @@ namespace AutoPilot
 
                 {
 
-                    paintAll.Append(display[x, y]); //invoke stringbuilder "paintAll" and appent the character at coordinates [x,y] from the display array.
+                    paintAll.Append(display[x, y]); //invoke stringbuilder "paintAll" and appen the character at coordinates [x,y] from the display array.
 
                 }
 
