@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/Team Project/AutoPilot/bin/Debug/net8.0/AutoPilot.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Team Project/AutoPilot",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
