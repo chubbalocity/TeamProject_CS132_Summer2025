@@ -1,0 +1,32 @@
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/bin/Debug/net8.0/AutoPilot
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/bin/Debug/net8.0/AutoPilot.dll.config
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/bin/Debug/net8.0/AutoPilot.deps.json
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/bin/Debug/net8.0/AutoPilot.runtimeconfig.json
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/bin/Debug/net8.0/AutoPilot.dll
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/bin/Debug/net8.0/AutoPilot.pdb
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/AutoPilot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/AutoPilot.AssemblyInfoInputs.cache
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/AutoPilot.AssemblyInfo.cs
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/AutoPilot.csproj.CoreCompileInputs.cache
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/AutoPilot.sourcelink.json
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/AutoPilot.dll
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/refint/AutoPilot.dll
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/AutoPilot.pdb
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/AutoPilot.genruntimeconfig.cache
+/Users/ianch/Desktop/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/Debug/net8.0/ref/AutoPilot.dll
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\AutoPilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\AutoPilot.AssemblyInfoInputs.cache
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\AutoPilot.AssemblyInfo.cs
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\AutoPilot.csproj.CoreCompileInputs.cache
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\AutoPilot.sourcelink.json
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\AutoPilot.dll
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\refint\AutoPilot.dll
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\AutoPilot.pdb
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\bin\Debug\net8.0\AutoPilot.exe
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\bin\Debug\net8.0\AutoPilot.dll.config
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\bin\Debug\net8.0\AutoPilot.deps.json
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\bin\Debug\net8.0\AutoPilot.runtimeconfig.json
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\bin\Debug\net8.0\AutoPilot.dll
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\bin\Debug\net8.0\AutoPilot.pdb
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\AutoPilot.genruntimeconfig.cache
+C:\git\CS132 Team Project\TeamProject_CS132_Summer2025\Team Project\AutoPilot\obj\Debug\net8.0\ref\AutoPilot.dll
