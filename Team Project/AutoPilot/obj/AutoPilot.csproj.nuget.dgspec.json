@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\git\\CS132 Team Project\\TeamProject_CS132_Summer2025\\Team Project\\AutoPilot\\AutoPilot.csproj": {}
+    "/Users/ianch/Documents/CS132 Files/tp2/TeamProject_CS132_Summer2025/Team Project/AutoPilot/AutoPilot.csproj": {}
   },
   "projects": {
-    "c:\\git\\CS132 Team Project\\TeamProject_CS132_Summer2025\\Team Project\\AutoPilot\\AutoPilot.csproj": {
+    "/Users/ianch/Documents/CS132 Files/tp2/TeamProject_CS132_Summer2025/Team Project/AutoPilot/AutoPilot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\git\\CS132 Team Project\\TeamProject_CS132_Summer2025\\Team Project\\AutoPilot\\AutoPilot.csproj",
+        "projectUniqueName": "/Users/ianch/Documents/CS132 Files/tp2/TeamProject_CS132_Summer2025/Team Project/AutoPilot/AutoPilot.csproj",
         "projectName": "AutoPilot",
-        "projectPath": "c:\\git\\CS132 Team Project\\TeamProject_CS132_Summer2025\\Team Project\\AutoPilot\\AutoPilot.csproj",
-        "packagesPath": "C:\\Users\\ianch\\.nuget\\packages\\",
-        "outputPath": "c:\\git\\CS132 Team Project\\TeamProject_CS132_Summer2025\\Team Project\\AutoPilot\\obj\\",
+        "projectPath": "/Users/ianch/Documents/CS132 Files/tp2/TeamProject_CS132_Summer2025/Team Project/AutoPilot/AutoPilot.csproj",
+        "packagesPath": "/Users/ianch/.nuget/packages/",
+        "outputPath": "/Users/ianch/Documents/CS132 Files/tp2/TeamProject_CS132_Summer2025/Team Project/AutoPilot/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ianch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ianch/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

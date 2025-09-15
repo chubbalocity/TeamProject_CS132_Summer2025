@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AutoPilot
-build_property.ProjectDir = C:\Users\ianch\git\cs132teamproj\TeamProject_CS132_Summer2025\Team Project\AutoPilot\
+build_property.ProjectDir = /Users/ianch/Documents/CS132 Files/tp2/TeamProject_CS132_Summer2025/Team Project/AutoPilot/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

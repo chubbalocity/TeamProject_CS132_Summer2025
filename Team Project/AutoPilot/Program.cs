@@ -45,7 +45,7 @@ namespace AutoPilot
         // Maintain road within screen dimensions.
         // ------------------------------------------------
         {
-            var lastRow = roadRows[roadRows.Count - 1];                     // get left shoulder position from current bottom row
+            var lastRow = roadRows[roadRows.Count - 1];                // get left shoulder position from current bottom row
             int left = lastRow.left;                                        // define position as integer
 
             int delta = random.Next(-1, 2);                                 // random shift road left (-1), stay (0), or right (+1)
@@ -87,7 +87,7 @@ namespace AutoPilot
         // Summary: draw car glyph in display array, one row above bottom row (configurable), centered between shoulders
         // ------------------------------------------------
         {
-            int carRow          = height - 2;                               // set car glyph one row above bottom
+            int carRow          = 1;                                        // set car glyph one row above bottom
             var (left, right)   = roadRows[carRow];                         // ref road shoulders
             int carCol          = left + (span / 2);                        // center of road
 
@@ -101,7 +101,7 @@ namespace AutoPilot
         {
             StringBuilder paintAll = new StringBuilder(width * height);     // define a new StringBuilder object with a capacity of width * height
 
-            for (int x = 0; x < height; x++)                                // Loop through available rows while x is >= 0 but less than height.
+            for (int x = height -1; x >= 0; x--)                                // Loop through available rows while x is >= 0 but less than height.
             {
                 for (int y = 0; y < width; y++)                             // Loop through available columns while y is >= 0 but less than width.
                 {
